@@ -11,7 +11,8 @@ body {
 
 .container {
 	height: 1750px;
-	margin: 0 250px;
+	margin: 0 auto;
+	max-width: 1017px;
 	background-color: #ffffff;
 	border: 1px solid #000000;
 }
